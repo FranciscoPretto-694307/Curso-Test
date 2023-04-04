@@ -8,6 +8,4 @@
 Local test
 2do local test
 
-MODIFICACION DESDE Local
-
-Agrego Lineas desde local
+EDICION DESDE REMOTO
